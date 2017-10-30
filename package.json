@@ -1,0 +1,22 @@
+{
+    "name":"Simple Twitter Knockoff",
+    "version": "1.0.0",
+    "description": "A simple Twitter clone using Node and MongoDB",
+	"author": "KevinsProjects",
+	"license": "MIT",
+	
+    "dependencies": {
+        "express": "*",
+        "express-hbs" :"*",
+        "mongodb": "*",
+        "body-parser": "*", 
+        "express-session":"*", 
+        "connect-busboy": "*", 
+        "express-fileupload": "*", 
+        "passport": "*", 
+        "passport-local": "*", 
+        "cookie-parser": "*",
+        "mongoose": "*",
+        "async": "2.1.1"
+    }
+}
